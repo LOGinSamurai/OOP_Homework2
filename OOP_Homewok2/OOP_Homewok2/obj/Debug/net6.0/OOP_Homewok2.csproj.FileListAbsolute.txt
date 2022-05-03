@@ -1,0 +1,15 @@
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.csproj.AssemblyReference.cache
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.AssemblyInfoInputs.cache
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.AssemblyInfo.cs
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.csproj.CoreCompileInputs.cache
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\bin\Debug\net6.0\OOP_Homewok2.exe
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\bin\Debug\net6.0\OOP_Homewok2.deps.json
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\bin\Debug\net6.0\OOP_Homewok2.runtimeconfig.json
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\bin\Debug\net6.0\OOP_Homewok2.dll
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\bin\Debug\net6.0\ref\OOP_Homewok2.dll
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\bin\Debug\net6.0\OOP_Homewok2.pdb
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.dll
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\ref\OOP_Homewok2.dll
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.pdb
+C:\Users\Керелл\Desktop\OOP_Homewok2\OOP_Homewok2\obj\Debug\net6.0\OOP_Homewok2.genruntimeconfig.cache
