@@ -8,15 +8,15 @@ namespace OOP_Homework2_part2
 {
     public class Student : User
     {
-        public string scholarship;
+        public int scholarship;
         public string course;
         public Student():base()
         {
-            scholarship = "Scholar of the anctient magic";
-            course = "second grade";
+            scholarship = 1000;
+            course = "Programing";
         }
 
-        public Student(string name, int age, string scholarship, string course) : base(name, age)
+        public Student(string name, int age, int scholarship, string course) : base(name, age)
         {
             this.scholarship = scholarship;
             this.course = course;

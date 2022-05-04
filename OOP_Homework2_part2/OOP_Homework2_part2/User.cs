@@ -9,9 +9,9 @@ namespace OOP_Homework2_part2
     public class User
     {
 
-        private string name;
+        protected string name;
 
-        private int age;
+        protected int age;
 
         public User()
         {

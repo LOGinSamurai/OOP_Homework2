@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2_part2\\OOP_Homework2_part2\\OOP_Homework2_part2.csproj",
+      "projectUniqueName": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homework2_part2\\OOP_Homework2_part2\\OOP_Homework2_part2.csproj",
       "projectName": "OOP_Homework2_part2",
-      "projectPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2_part2\\OOP_Homework2_part2\\OOP_Homework2_part2.csproj",
+      "projectPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homework2_part2\\OOP_Homework2_part2\\OOP_Homework2_part2.csproj",
       "packagesPath": "C:\\Users\\Керелл\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2_part2\\OOP_Homework2_part2\\obj\\",
+      "outputPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homework2_part2\\OOP_Homework2_part2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Керелл\\AppData\\Roaming\\NuGet\\NuGet.Config",

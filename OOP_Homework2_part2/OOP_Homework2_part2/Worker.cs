@@ -48,5 +48,9 @@ namespace OOP_Homework2_part2
                 salary = value;
             }
         }
+        public void Display()
+        {
+            Console.WriteLine("|Name: " + name + "| |Salary: " + salary + "|");
+        }
     }
 }

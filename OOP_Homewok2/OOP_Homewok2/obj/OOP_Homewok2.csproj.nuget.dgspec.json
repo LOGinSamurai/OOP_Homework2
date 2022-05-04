@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Керелл\\Desktop\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj": {}
+    "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Керелл\\Desktop\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj": {
+    "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Керелл\\Desktop\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj",
+        "projectUniqueName": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj",
         "projectName": "OOP_Homewok2",
-        "projectPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj",
+        "projectPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homewok2\\OOP_Homewok2\\OOP_Homewok2.csproj",
         "packagesPath": "C:\\Users\\Керелл\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homewok2\\OOP_Homewok2\\obj\\",
+        "outputPath": "C:\\Users\\Керелл\\Desktop\\OOP_Homework2\\OOP_Homewok2\\OOP_Homewok2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Керелл\\AppData\\Roaming\\NuGet\\NuGet.Config",
